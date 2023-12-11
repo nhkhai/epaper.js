@@ -22,7 +22,8 @@
     },
     "dependencies": {
         "@epaperjs/core": "workspace:^",
-        "yargs": "^17.3.0"
+        "yargs": "^17.3.0",
+        "epaper.js": "nhkhai/epaper.js#main"
     },
     "bugs": {
         "url": "https://github.com/samsonmking/epaper.js/issues"
