@@ -167,14 +167,15 @@ npm install --global @epaperjs/cli @epaperjs/rpi-7in5-v2
 
 ## Supported Hardware
 
-| Device                                                                          | Device Type    | npm Package              | Color Modes  |
-| ------------------------------------------------------------------------------- | -------------- | ------------------------ | ------------ |
-| [Waveshare 4.2"](https://www.waveshare.com/4.2inch-e-Paper.htm)                 | `rpi-4in2`     | `@epaperjs/rpi-4in2`     | black 4gray  |
-| [Waveshare 7.5" v2](https://www.waveshare.com/7.5inch-e-Paper.htm)              | `rpi-7in5-v2`  | `@epaperjs/rpi-7in5-v2`  | black        |
-| [Waveshare 3.7" hat](https://www.waveshare.com/3.7inch-e-paper-hat.htm)         | `rpi-3in7`     | `@epaperjs/rpi-3in7`     | black, 4gray |
-| [Waveshare 2.13" hat v2](https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT)   | `rpi-2in13-v2` | `@epaperjs/rpi-2in13-v2` | black, red   |
-| [Waveshare 2.13" bc](<https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT_(B)>) | `rpi-2in13-bc` | `@epaperjs/rpi-2in13-bc` | black        |
-| [Waveshare 2.7"](https://www.waveshare.com/wiki/2.7inch_e-Paper_HAT)            | `rpi-2in7`     | `@epaperjs/rpi-2in7`     | black        |
+| Device                                                                         			| Device Type    | npm Package              | Color Modes  |
+| ----------------------------------------------------------------------------------------- | -------------- | ------------------------ | ------------ |
+| [Waveshare 4.2"](https://www.waveshare.com/4.2inch-e-Paper.htm)                			| `rpi-4in2`     | `@epaperjs/rpi-4in2`     | black 4gray  |
+| [Waveshare 7.5" v2](https://www.waveshare.com/7.5inch-e-Paper.htm)            		    | `rpi-7in5-v2`  | `@epaperjs/rpi-7in5-v2`  | black        |
+| [Waveshare 3.7" hat](https://www.waveshare.com/3.7inch-e-paper-hat.htm)         			| `rpi-3in7`     | `@epaperjs/rpi-3in7`     | black, 4gray |
+| [Waveshare 2.13" hat v2](https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT)   			| `rpi-2in13-v2` | `@epaperjs/rpi-2in13-v2` | black, red   |
+| [Waveshare 2.13" touch hat v4](https://www.waveshare.com/wiki/2.13inch_Touch_e-Paper_HAT) | `rpi-2in13-v4` | `@epaperjs/rpi-2in13-v4` | black, 2gray |
+| [Waveshare 2.13" bc](<https://www.waveshare.com/wiki/2.13inch_e-Paper_HAT_(B)>) 			| `rpi-2in13-bc` | `@epaperjs/rpi-2in13-bc` | black        |
+| [Waveshare 2.7"](https://www.waveshare.com/wiki/2.7inch_e-Paper_HAT)            			| `rpi-2in7`     | `@epaperjs/rpi-2in7`     | black        |
 
 ### Adding Support For Additional Displays
 
